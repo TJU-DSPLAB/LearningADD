@@ -17,12 +17,12 @@ net = train(net,traind',trainl');
 test_out=sim(net,testd');
 
 %% 实验结果画图
-N = length(testd(:,1));
-plot([1:N],testl,'r.',[1:N],test_out,'b.');
-xlabel('samples');
-ylabel('predicting value');
-legend('label','prediction');
-grid on;
+% N = length(testd(:,1));
+% plot([1:N],testl,'r.',[1:N],test_out,'b.');
+% xlabel('samples');
+% ylabel('predicting value');
+% legend('label','prediction');
+% grid on;
 
 %% 结果分析
 % 取整

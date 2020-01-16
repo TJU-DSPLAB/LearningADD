@@ -18,7 +18,7 @@ load([data_path 'trainl'])
 load([data_path 'testd'])
 load([data_path 'testl'])
 
-load([root_path 'B.mat']);
+load([root_path 'B.txt']);
 load([root_path '2000/FJ_200_10.txt']);
 
 %% 测试特征子集的分类性能
@@ -31,7 +31,6 @@ for i = 1:10
         y = testd(:,selected1(i,:));
         % 对于次循环的结果
         [sig_a1,sig_p1,sig_r1,sig_f1] = classifer(x, trainl, y, testl);
-        classifer_training(x, trainl);
         result1 = [result1; sig_a1,sig_p1,sig_r1,sig_f1];
 
 %         % 随机取得特征序号
@@ -52,7 +51,7 @@ for i = 1:10
         fprintf('第%d个实验，第%d次循环\n',i,l);
      end
  
- end
-[A, P, R, F] = mean(result1);
-F
+end
+
+mean(result1)
 
