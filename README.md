@@ -42,46 +42,46 @@ The prototyping platform of LearningADD system is introduced as following.
 ![glass_bottles](/images/glass_bottles.png)
 
 ### 5）Conveyor belt
-![Conveyor_belt](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/Conveyor_belt.png)
+![Conveyor_belt](/images/Conveyor_belt.png)
 
 
 ### 6）Positioning equipment
 
-![Positioning_equipment](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/Positioning_equipment.jpg)
+![Positioning_equipment](/images/Positioning_equipment.jpg)
 
 ### 7）Acoustic collection module
-![Acoustic_collection2](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/Acoustic_collection2.jpg)
+![Acoustic_collection2](/images/Acoustic_collection2.jpg)
 
-![Acoustic_collection](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/Acoustic_collection.jpg)
+![Acoustic_collection](/images/Acoustic_collection.jpg)
 
 ### 8）Field Controller
 Field_controller:
 
-![Field_controller](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/Field_controller.jpg)
+![Field_controller](/images/Field_controller.jpg)
 
 dsk5416:
-![dsk5416](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/dsk5416.jpg)
+![dsk5416](/images/dsk5416.jpg)
 
 ### 9）Waveform display
 
-![waveform](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/waveform.jpg)
+![waveform](/images/waveform.jpg)
 
-![waveform2](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/waveform2.jpg)
+![waveform2](/images/waveform2.jpg)
 
 ### 10）Defect Indicator
-![Defect_indicator](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/Defect_indicator.jpg)
+![Defect_indicator](/images/Defect_indicator.jpg)
 
 
 ### 11）Rejection equipment
 
-![rejection](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/rejection.jpg)
+![rejection](/images/rejection.jpg)
 
 
 ### 12）vedios
 
 <video id="video" controls="" preload="none"
     poster="/vedios/waveform_display.MOV">
-     <source id="MOV" src="https://github.com/TJU-DSPLAB/LearningADD/raw/master/vedios/waveform_display.MOV" 
+     <source id="MOV" src="/vedios/waveform_display.MOV" 
          type="video/MOV">
       <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
@@ -89,7 +89,7 @@ dsk5416:
 <iframe 
     width="400" 
     height="450" 
-    src="https://github.com/TJU-DSPLAB/LearningADD/raw/master/vedios/waveform_display.MOV"
+    src="/vedios/waveform_display.MOV"
     frameborder="0" 
     allowfullscreen>
 </iframe>
@@ -97,7 +97,7 @@ dsk5416:
 <iframe 
     width="400" 
     height="450" 
-    src="https://github.com/TJU-DSPLAB/LearningADD/raw/master/vedios/device1.mp4"
+    src="/vedios/device1.mp4"
     frameborder="0" 
     allowfullscreen>
 </iframe>
@@ -106,7 +106,7 @@ dsk5416:
 <iframe 
     width="400" 
     height="450" 
-    src="https://github.com/TJU-DSPLAB/LearningADD/raw/master/vedios/device2.mp4"
+    src="/vedios/device2.mp4"
     frameborder="0" 
     allowfullscreen>
 </iframe>
