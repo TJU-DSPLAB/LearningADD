@@ -16,7 +16,7 @@ It is noted that there are two splitting method for dataset, which is respective
 
 The prototyping platform of LearningADD system is introduced as following.
 
-
+Note that, if the pictures and videos in this page are not visible, please visit [http://dingby.site/2020/06/25/Prototyping-platform-of-LearningADD-system/](http://dingby.site/2020/06/25/Prototyping-platform-of-LearningADD-system/).
 
 ### 1）System block diagram
 **（1）System block diagram**.
