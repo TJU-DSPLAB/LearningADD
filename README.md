@@ -20,10 +20,11 @@ The prototyping platform of LearningADD system is introduced as following.
 
 ### 1）System block diagram
 **（1）System block diagram**.
-![System_block_diagram](https://github.com/TJU-DSPLAB/LearningADD/blob/master/images/System_block_diagram.png)
+
+![System_block_diagram](https://github.com/TJU-DSPLAB/LearningADD/tree/master/images/System_block_diagram.png)
 
 **（2）Prototyping system of LearningADD system**.
-![prototyping_platform](/images/prototyping_platform.png)
+![prototyping_platform](https://github.com/TJU-DSPLAB/LearningADD/tree/master/images/prototyping_platform.png)
 
 
 ### 2）Data stream
