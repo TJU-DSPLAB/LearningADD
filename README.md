@@ -21,25 +21,25 @@ The prototyping platform of LearningADD system is introduced as following.
 ### 1）System block diagram
 **（1）System block diagram**.
 
-![System_block_diagram](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/System_block_diagram.png)
+![System_block_diagram](/images/System_block_diagram.png)
 
 **（2）Prototyping system of LearningADD system**.
-![prototyping_platform](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/prototyping_platform.png)
+![prototyping_platform](/images/prototyping_platform.png)
 
 
 ### 2）Data stream
 
-![data_stream](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/data_stream.png)
+![data_stream](/images/data_stream.png)
 
 ### 3）Experimental workshop
 
-![workshop](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/workshop.png)
+![workshop](/images/workshop.png)
 
 
 ### 4）Experimental subject
 
-![glass_bottle](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/glass_bottle.png)
-![glass_bottles](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/glass_bottles.png)
+![glass_bottle](/images/glass_bottle.png)
+![glass_bottles](/images/glass_bottles.png)
 
 ### 5）Conveyor belt
 ![Conveyor_belt](https://github.com/TJU-DSPLAB/LearningADD/raw/master/images/Conveyor_belt.png)
