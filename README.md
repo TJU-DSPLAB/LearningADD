@@ -79,21 +79,6 @@ dsk5416:
 
 ### 12）vedios
 
-<video id="video" controls="" preload="none"
-    poster="/vedios/waveform_display.MOV">
-     <source id="MOV" src="/vedios/waveform_display.MOV" 
-         type="video/MOV">
-      <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
-
-<iframe 
-    width="400" 
-    height="450" 
-    src="/vedios/waveform_display.MOV"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
-
 <iframe 
     width="400" 
     height="450" 
@@ -107,6 +92,14 @@ dsk5416:
     width="400" 
     height="450" 
     src="/vedios/device2.mp4"
+    frameborder="0" 
+    allowfullscreen>
+</iframe>
+
+<iframe 
+    width="400" 
+    height="450" 
+    src="/vedios/waveform_display.MOV"
     frameborder="0" 
     allowfullscreen>
 </iframe>
